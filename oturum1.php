@@ -4,4 +4,6 @@
   
   echo $_SESSION['ad']; 
   
+  echo "Deneme Amaçlı";
+  
 ?>
